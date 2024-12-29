@@ -8,7 +8,7 @@ from selenium.webdriver.support import expected_conditions as EC
 import json
 import time
 
-profile_link = "https://www.linkedin.com/in/mayu-yamakawa/"
+profile_link = "https://www.linkedin.com/in/mayu-yamakawa/" # in the future, this will become a list of links
 
 options = Options()
 options.binary_location = '/Applications/Brave Browser.app/Contents/MacOS/Brave Browser'
